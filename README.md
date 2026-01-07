@@ -16,7 +16,9 @@
   ---
   <div style="text-align: center;"><h3><b>Socials</b></div>
     
-![x](https://img.shields.io/badge/X(Old%20Twitter)-%23000000?style=for-the-badge&logo=x)  ![instagram](https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram)  ![gmail](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Akpnkpn1324%40gmail.com)
+<a href="https://x.com/kpnkpn1324"><img src="https://img.shields.io/badge/X(Old%20Twitter)-%23000000?style=for-the-badge&logo=x&logoColor=white"/> 
+<a href="https://www.instagram.com/kpnkpn13242"><img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="mailto:kpnkpn1324@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 
 
