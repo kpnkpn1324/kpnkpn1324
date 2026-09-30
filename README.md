@@ -17,8 +17,7 @@
   <div style="text-align: center;"><h3><b>Socials</b></div>
     
 <a href="https://x.com/kpnkpn1324"><img src="https://img.shields.io/badge/X(Old%20Twitter)-%23000000?style=for-the-badge&logo=x&logoColor=white"/> 
-<a href="https://www.instagram.com/kpnkpn13242"><img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=Instagram&logoColor=white"/>
-<a href="mailto:kpnkpn1324@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:balloon@yunchea.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 
 
